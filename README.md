@@ -45,7 +45,7 @@
  
 </div> 
 
- <h2 align='Left'>👨🏻‍💻 Coding Profiles:></h2>
+ <h2 align='Left'>👨🏻‍💻 Coding Profiles:</h2>
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Harshika84/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sharshika408)
@@ -84,12 +84,13 @@ Development Tools
  <h2 align="Left"> 📈 Github Stats:</h2>
 
  
-| <a href="https://github.com/padmeshsharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=padmeshsharma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Padmesh's github stats" /></a> | <a href="https://github.com/padmeshsharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmeshsharma&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Harshikashar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshikashar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harshika Sharma github stats" /></a> | <a href="https://github.com/Harshikashar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshikashar&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
  
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padmeshsharma&theme=buefy" height="30%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshikashar
+&theme=buefy" height="30%" />
 
 </p>
 
