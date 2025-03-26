@@ -72,6 +72,11 @@ AI/ML
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,scikit_learn" alt="DevOps Skills" />
 </p>
+Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/>
+</p>
 
  <h2 align="Left">🏆 GitHub Trophies:</h2>
    
